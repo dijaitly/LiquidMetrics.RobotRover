@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LiquidMetrics.RobotRover", "LiquidMetrics.RobotRover\LiquidMetrics.RobotRover.csproj", "{A19529BE-57A7-4F42-8A98-6B8BFCB8FA9F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LiquidMetrics.RobotRover.Rover", "LiquidMetrics.RobotRover.Rover\LiquidMetrics.RobotRover.Rover.csproj", "{936F8415-0B34-44A8-BCC0-237761EF7FB4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LiquidMetrics.RobotRover.Common", "LiquidMetrics.RobotRover.Common\LiquidMetrics.RobotRover.Common.csproj", "{A56FA3AF-5ABB-4515-B147-CB644E6B6A55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiquidMetrics.RobotRover.UnitTest", "LiquidMetrics.RobotRover.UnitTest\LiquidMetrics.RobotRover.UnitTest.csproj", "{4B573388-026B-46D9-9C8D-8B9A3AB1A9CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A19529BE-57A7-4F42-8A98-6B8BFCB8FA9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A19529BE-57A7-4F42-8A98-6B8BFCB8FA9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A19529BE-57A7-4F42-8A98-6B8BFCB8FA9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A19529BE-57A7-4F42-8A98-6B8BFCB8FA9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{936F8415-0B34-44A8-BCC0-237761EF7FB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{936F8415-0B34-44A8-BCC0-237761EF7FB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{936F8415-0B34-44A8-BCC0-237761EF7FB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{936F8415-0B34-44A8-BCC0-237761EF7FB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A56FA3AF-5ABB-4515-B147-CB644E6B6A55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A56FA3AF-5ABB-4515-B147-CB644E6B6A55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A56FA3AF-5ABB-4515-B147-CB644E6B6A55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A56FA3AF-5ABB-4515-B147-CB644E6B6A55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B573388-026B-46D9-9C8D-8B9A3AB1A9CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B573388-026B-46D9-9C8D-8B9A3AB1A9CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B573388-026B-46D9-9C8D-8B9A3AB1A9CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B573388-026B-46D9-9C8D-8B9A3AB1A9CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C661C2EC-93F2-4436-ABA9-5439102D825A}
+	EndGlobalSection
+EndGlobal
